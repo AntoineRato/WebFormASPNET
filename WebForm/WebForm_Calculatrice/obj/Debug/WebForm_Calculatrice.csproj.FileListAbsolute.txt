@@ -1,0 +1,5 @@
+/Users/zlino/Master1/Conception APP .NET/WeFormASPNET/WebForm/WebForm_Calculatrice/bin/WebForm_Calculatrice.dll
+/Users/zlino/Master1/Conception APP .NET/WeFormASPNET/WebForm/WebForm_Calculatrice/bin/WebForm_Calculatrice.pdb
+/Users/zlino/Master1/Conception APP .NET/WeFormASPNET/WebForm/WebForm_Calculatrice/obj/Debug/WebForm_Calculatrice.csproj.CoreCompileInputs.cache
+/Users/zlino/Master1/Conception APP .NET/WeFormASPNET/WebForm/WebForm_Calculatrice/obj/Debug/WebForm_Calculatrice.dll
+/Users/zlino/Master1/Conception APP .NET/WeFormASPNET/WebForm/WebForm_Calculatrice/obj/Debug/WebForm_Calculatrice.pdb
