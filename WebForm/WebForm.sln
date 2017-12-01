@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm_Calculatrice", "Web
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm_Calculatrice.Tests", "WebForm_Calculatrice.Tests\WebForm_Calculatrice.Tests.csproj", "{056A78A5-3664-431D-AE83-608012B15512}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex", "Pokedex\Pokedex.csproj", "{CFBA5671-9366-44BC-95AF-BCC24C55A666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.Tests", "Pokedex.Tests\Pokedex.Tests.csproj", "{6E956928-94C9-4BEE-AD4D-A6F53F92DC58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +23,13 @@ Global
 		{056A78A5-3664-431D-AE83-608012B15512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{056A78A5-3664-431D-AE83-608012B15512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{056A78A5-3664-431D-AE83-608012B15512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBA5671-9366-44BC-95AF-BCC24C55A666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBA5671-9366-44BC-95AF-BCC24C55A666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBA5671-9366-44BC-95AF-BCC24C55A666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBA5671-9366-44BC-95AF-BCC24C55A666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E956928-94C9-4BEE-AD4D-A6F53F92DC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E956928-94C9-4BEE-AD4D-A6F53F92DC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E956928-94C9-4BEE-AD4D-A6F53F92DC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E956928-94C9-4BEE-AD4D-A6F53F92DC58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
